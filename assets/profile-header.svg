@@ -1,0 +1,30 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ilia Sorokin GitHub profile header</title>
+  <desc id="desc">Open-source tools for coding agents, maintainers, and local security checks.</desc>
+  <rect width="1200" height="320" rx="28" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="318" rx="27" stroke="#30363D" stroke-width="2"/>
+  <path d="M80 230C170 130 248 262 336 164C425 65 515 191 605 105C694 19 786 143 876 83C966 23 1044 62 1120 37" stroke="#58A6FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M80 246C180 197 265 238 350 214C453 184 520 104 612 172C715 249 787 118 885 174C982 228 1045 154 1120 164" stroke="#3FB950" stroke-width="4" stroke-linecap="round"/>
+  <g opacity="0.16">
+    <rect x="80" y="54" width="1040" height="214" rx="18" fill="#161B22"/>
+    <path d="M124 92H1076" stroke="#8B949E" stroke-width="1"/>
+    <path d="M124 132H1076" stroke="#8B949E" stroke-width="1"/>
+    <path d="M124 172H1076" stroke="#8B949E" stroke-width="1"/>
+    <path d="M124 212H1076" stroke="#8B949E" stroke-width="1"/>
+  </g>
+  <g>
+    <rect x="82" y="52" width="10" height="216" rx="5" fill="#58A6FF"/>
+    <text x="124" y="126" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">Ilia Sorokin</text>
+    <text x="126" y="170" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="23">Coding-agent tools, repo checks, and upstream maintenance</text>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">
+      <rect x="126" y="206" width="160" height="44" rx="10" fill="#161B22" stroke="#30363D"/>
+      <text x="146" y="234" fill="#58A6FF">agent tools</text>
+      <rect x="302" y="206" width="156" height="44" rx="10" fill="#161B22" stroke="#30363D"/>
+      <text x="322" y="234" fill="#3FB950">repo checks</text>
+      <rect x="474" y="206" width="176" height="44" rx="10" fill="#161B22" stroke="#30363D"/>
+      <text x="494" y="234" fill="#F78166">local security</text>
+      <rect x="666" y="206" width="190" height="44" rx="10" fill="#161B22" stroke="#30363D"/>
+      <text x="686" y="234" fill="#D2A8FF">upstream OSS</text>
+    </g>
+  </g>
+</svg>

@@ -1,4 +1,4 @@
-<img src="assets/profile-banner.webp" alt="GitHub profile banner for AI automation, agent tools, vertical SaaS, and OSS infrastructure" width="100%">
+<img src="assets/profile-banner.webp" alt="Plush orange carpet banner with AI automation, agent tools, and vertical SaaS shaved into the rug" width="100%">
 
 # Ilia Sorokin
 

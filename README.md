@@ -1,4 +1,4 @@
-<img src="assets/profile-header.svg" alt="Ilia Sorokin - OSS tools for coding agents, maintainers, and local security checks" width="100%">
+<img src="assets/profile-banner.webp" alt="Abstract dark technical banner with blue and green accent lines" width="100%">
 
 # Ilia Sorokin
 

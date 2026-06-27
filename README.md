@@ -1,4 +1,4 @@
-<img src="assets/profile-banner.webp" alt="Minimal coral product engineering banner with abstract workflow cards and graph nodes" width="100%">
+<img src="assets/profile-banner.webp" alt="GitHub profile banner for AI automation, agent tools, vertical SaaS, and OSS infrastructure" width="100%">
 
 # Ilia Sorokin
 

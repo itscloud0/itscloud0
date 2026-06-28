@@ -15,6 +15,18 @@
 </p>
 
 <p align="center">
+  <a href="https://kognivu.com">
+    <img alt="Kognivu live" src="https://img.shields.io/badge/Kognivu-live-F28C6A?style=for-the-badge&labelColor=201E1F">
+  </a>
+  <a href="https://t.me/WBDelegateBot">
+    <img alt="WBDelegateBot released" src="https://img.shields.io/badge/WBDelegateBot-released-F28C6A?style=for-the-badge&labelColor=201E1F">
+  </a>
+  <a href="https://linkedin.com/in/iliasorokin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ilia%20Sorokin-453F3C?style=for-the-badge&labelColor=201E1F">
+  </a>
+</p>
+
+<p align="center">
   <code>AI automation</code>
   <code>MCP</code>
   <code>agent tools</code>
@@ -24,6 +36,8 @@
 </p>
 
 I build product systems where LLMs are useful because the workflow around them is strict: typed tools, approval gates, evals, source-backed memory, operational dashboards, and boring verification.
+
+Most of my strongest work is product-first and not always public on day one. Public repositories show the developer-infrastructure lane; private and launched products show the commercial lane.
 
 ## Featured Work
 
@@ -57,6 +71,10 @@ I build product systems where LLMs are useful because the workflow around them i
     </td>
   </tr>
 </table>
+
+## Private Product Work
+
+Alongside public OSS, I build and operate private vertical products: Wildberries seller automation, tender monitoring bots, finance and crypto operations systems, content repurposing SaaS prototypes, and memory/context infrastructure for AI agents. I make projects public only when the public repo itself is useful, maintained, and honest about its state.
 
 ## Public OSS
 

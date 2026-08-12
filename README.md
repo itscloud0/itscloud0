@@ -64,8 +64,8 @@ Most of my strongest work is product-first and not always public on day one. Pub
       <p><sub>TypeScript · Next.js · memory systems · RAG · enterprise AI</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>agent-shell-contract</h3>
-      <p><strong>Private incubation: conformance suite for coding-agent terminal runners.</strong></p>
+      <h3><a href="https://github.com/itscloud0/agent-shell-contract">agent-shell-contract</a></h3>
+      <p><strong>Public conformance suite for coding-agent terminal runners.</strong></p>
       <p>Fixture-driven checks for shell timeouts, child process cleanup, background servers, terminal output, cwd drift, environment boundaries, PTY behavior, and adapter reports for agent clients and harnesses.</p>
       <p><sub>Python · CLI · agent infrastructure · terminal semantics · benchmarks</sub></p>
     </td>
@@ -83,10 +83,14 @@ Alongside public OSS, I build and operate private vertical products: Wildberries
 | [issue-to-agent](https://github.com/itscloud0/issue-to-agent) | Turns GitHub issues into ready-to-run task packs for Codex, Claude Code, Cursor, and Copilot. |
 | [mergepack](https://github.com/itscloud0/mergepack) | Turns PR diffs into agent-ready merge packets for maintainers and reviewers. |
 | [loopback-litmus](https://github.com/itscloud0/loopback-litmus) | Checks browser-to-localhost exposure in local AI agent, MCP, and WebSocket control planes. |
-| [repo-brief](https://github.com/itscloud0/repo-brief) | Generates compact repository briefs for humans and coding agents. |
-| [ci-fix-brief](https://github.com/itscloud0/ci-fix-brief) | Condenses noisy CI logs into repair briefs for coding-agent sessions. |
 | [action-pin-check](https://github.com/itscloud0/action-pin-check) | Audits GitHub Actions workflows for mutable or missing action pins. |
-| [readme-command-check](https://github.com/itscloud0/readme-command-check) | Checks README shell commands before users copy broken quickstarts. |
+| [agent-shell-contract](https://github.com/itscloud0/agent-shell-contract) | Tests shell semantics and process cleanup for coding-agent terminal runners. |
+| [agent-instruction-litmus](https://github.com/itscloud0/agent-instruction-litmus) | Tests whether coding agents follow AGENTS.md and other instruction files. |
+| [agent-path-topology-litmus](https://github.com/itscloud0/agent-path-topology-litmus) | Tests symlinks, submodules, worktrees, and path-scoped coding-agent config. |
+| [agent-file-integrity-litmus](https://github.com/itscloud0/agent-file-integrity-litmus) | Tests byte-preserving coding-agent edits across encodings, newlines, and file modes. |
+| [agent-session-continuity-litmus](https://github.com/itscloud0/agent-session-continuity-litmus) | Tests native coding-agent context compaction and session resume behavior. |
+
+Other public maintainer utilities include [repo-brief](https://github.com/itscloud0/repo-brief), [ci-fix-brief](https://github.com/itscloud0/ci-fix-brief), [readme-command-check](https://github.com/itscloud0/readme-command-check), and [repo-launch-check](https://github.com/itscloud0/repo-launch-check).
 
 ## Upstream Work
 

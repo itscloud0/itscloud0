@@ -1,124 +1,57 @@
-<img src="assets/profile-banner.webp" alt="Plush orange carpet banner with AI automation, agent tools, and vertical SaaS shaved into the rug" width="100%">
+<img src="assets/profile-banner.webp" alt="Ilia Sorokin — software products and developer tools" width="100%">
 
 <h1 align="center">Ilia Sorokin</h1>
 
 <p align="center">
-  <strong>Product engineer building AI execution systems, marketplace automation, and agentic developer tools.</strong>
+  <strong>Product engineer building tools for developers and AI-assisted software work.</strong>
 </p>
 
 <p align="center">
-  <a href="https://kognivu.com">Kognivu</a>
+  <a href="https://manualmode.dev">ManualMode</a>
   &nbsp;·&nbsp;
-  <a href="https://t.me/WBDelegateBot">WBDelegateBot</a>
+  <a href="https://kognivu.com">Kognivu</a>
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/iliasorokin">LinkedIn</a>
 </p>
 
-<p align="center">
-  <a href="https://kognivu.com">
-    <img alt="Kognivu live" src="https://img.shields.io/badge/Kognivu-live-F28C6A?style=for-the-badge&labelColor=201E1F">
-  </a>
-  <a href="https://t.me/WBDelegateBot">
-    <img alt="WBDelegateBot released" src="https://img.shields.io/badge/WBDelegateBot-released-F28C6A?style=for-the-badge&labelColor=201E1F">
-  </a>
-  <a href="https://linkedin.com/in/iliasorokin">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ilia%20Sorokin-453F3C?style=for-the-badge&labelColor=201E1F">
-  </a>
-</p>
+I build software products and open-source tools around a practical question: how do we use coding agents without losing control of the code, the workflow, or our own engineering skills? My public work focuses on developer tooling, agent reliability, and verifiable results.
 
-<p align="center">
-  <code>AI automation</code>
-  <code>MCP</code>
-  <code>agent tools</code>
-  <code>vertical SaaS</code>
-  <code>developer infrastructure</code>
-  <code>marketplace ops</code>
-</p>
+## Featured work
 
-I build product systems where LLMs are useful because the workflow around them is strict: typed tools, approval gates, evals, source-backed memory, operational dashboards, and boring verification.
-
-Most of my strongest work is product-first and not always public on day one. Public repositories show the developer-infrastructure lane; private and launched products show the commercial lane.
-
-## Featured Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://kognivu.com">Kognivu</a></h3>
-      <p><strong>AI life coach and daily planner for goal execution.</strong></p>
-      <p>Kognivu turns ambitious goals into deterministic roadmaps, daily quests, and accountability loops. The public site is live with structured SEO, sitemap, robots.txt, schema data, and llms.txt; the app is moving toward release.</p>
-      <p><sub>Next.js · AI planning · goal execution · SEO/AEO · product launch</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://t.me/WBDelegateBot">WBDelegateBot</a></h3>
-      <p><strong>Released Telegram assistant for Wildberries sellers.</strong></p>
-      <p>Production seller-ops bot for orders, supplies, prices, stocks, documents, subscriptions, and daily reports. Current direction: AI/MCP supervisor with read-only tools first, then preview -> confirm -> execute -> audit for high-impact actions.</p>
-      <p><sub>Python · Telegram · Wildberries API · MCP · seller automation</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>SecondLayer / SLOY</h3>
-      <p><strong>Private alpha memory and audit layer for corporate AI agents.</strong></p>
-      <p>Connects chats, docs, calls, CRM notes, and project context into reviewed memory. The goal is source-backed answers and actions for teams that need provider control, audit trails, and explicit approval boundaries.</p>
-      <p><sub>TypeScript · Next.js · memory systems · RAG · enterprise AI</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/itscloud0/agent-shell-contract">agent-shell-contract</a></h3>
-      <p><strong>Public conformance suite for coding-agent terminal runners.</strong></p>
-      <p>Fixture-driven checks for shell timeouts, child process cleanup, background servers, terminal output, cwd drift, environment boundaries, PTY behavior, and adapter reports for agent clients and harnesses.</p>
-      <p><sub>Python · CLI · agent infrastructure · terminal semantics · benchmarks</sub></p>
-    </td>
-  </tr>
-</table>
-
-## Private Product Work
-
-Alongside public OSS, I build and operate private vertical products: Wildberries seller automation, tender monitoring bots, finance and crypto operations systems, content repurposing SaaS prototypes, and memory/context infrastructure for AI agents. I make projects public only when the public repo itself is useful, maintained, and honest about its state.
-
-## Public OSS
-
-| Project | What it does |
+| Project | What you can try |
 | --- | --- |
-| [issue-to-agent](https://github.com/itscloud0/issue-to-agent) | Turns GitHub issues into ready-to-run task packs for Codex, Claude Code, Cursor, and Copilot. |
-| [mergepack](https://github.com/itscloud0/mergepack) | Turns PR diffs into agent-ready merge packets for maintainers and reviewers. |
-| [loopback-litmus](https://github.com/itscloud0/loopback-litmus) | Checks browser-to-localhost exposure in local AI agent, MCP, and WebSocket control planes. |
-| [action-pin-check](https://github.com/itscloud0/action-pin-check) | Audits GitHub Actions workflows for mutable or missing action pins. |
-| [agent-shell-contract](https://github.com/itscloud0/agent-shell-contract) | Tests shell semantics and process cleanup for coding-agent terminal runners. |
-| [agent-instruction-litmus](https://github.com/itscloud0/agent-instruction-litmus) | Tests whether coding agents follow AGENTS.md and other instruction files. |
-| [agent-path-topology-litmus](https://github.com/itscloud0/agent-path-topology-litmus) | Tests symlinks, submodules, worktrees, and path-scoped coding-agent config. |
-| [agent-file-integrity-litmus](https://github.com/itscloud0/agent-file-integrity-litmus) | Tests byte-preserving coding-agent edits across encodings, newlines, and file modes. |
-| [agent-session-continuity-litmus](https://github.com/itscloud0/agent-session-continuity-litmus) | Tests native coding-agent context compaction and session resume behavior. |
+| [ManualMode](https://manualmode.dev) | Practice code review and debugging alongside coding agents, including tasks from your own repository. The product is live; its [public project skill](https://github.com/itscloud0/manualmode-skill) documents the agent integration. |
+| [Kognivu](https://kognivu.com) | Turn a goal, deadline, and available time into a daily plan with concrete tasks. The web app is live. |
+| [issue-to-agent](https://github.com/itscloud0/issue-to-agent) | Turn a GitHub issue into a ready-to-run task pack for a coding agent. |
+| [agent-shell-contract](https://github.com/itscloud0/agent-shell-contract) | Run fixtures that check terminal behavior and process cleanup in coding-agent runners. |
 
-Other public maintainer utilities include [repo-brief](https://github.com/itscloud0/repo-brief), [ci-fix-brief](https://github.com/itscloud0/ci-fix-brief), [readme-command-check](https://github.com/itscloud0/readme-command-check), and [repo-launch-check](https://github.com/itscloud0/repo-launch-check).
+## Open-source developer tools
 
-## Upstream Work
-
-I also contribute to established Python tooling. Recent public work includes:
-
-| Project | Contribution surface |
+| Project | Focus |
 | --- | --- |
-| [pytest](https://github.com/pytest-dev/pytest/pull/14629) | Test framework behavior and contributor-facing fixes. |
-| [coverage.py](https://github.com/nedbat/coveragepy/pulls?q=is%3Apr+author%3Aitscloud0) | Coverage tooling investigation and patches. |
-| [MkDocs](https://github.com/mkdocs/mkdocs/pull/4153) | Documentation tooling improvements. |
-| [Cleo](https://github.com/python-poetry/cleo/pull/535) | Python CLI behavior and tests. |
+| [mergepack](https://github.com/itscloud0/mergepack) | Agent-ready merge packets from pull-request diffs. |
+| [action-pin-check](https://github.com/itscloud0/action-pin-check) | Checks GitHub Actions workflows for mutable or missing action pins. |
+| [loopback-litmus](https://github.com/itscloud0/loopback-litmus) | Browser-to-localhost exposure checks for local agent and MCP control planes. |
+| [agent-instruction-litmus](https://github.com/itscloud0/agent-instruction-litmus) | Fixtures for testing whether coding agents follow repository instructions. |
+| [agent-file-integrity-litmus](https://github.com/itscloud0/agent-file-integrity-litmus) | Fixtures for byte-preserving edits across encodings, newlines, and file modes. |
+| [agent-session-continuity-litmus](https://github.com/itscloud0/agent-session-continuity-litmus) | Tests task-state continuity across native context compaction and session resume. |
+| [agent-path-topology-litmus](https://github.com/itscloud0/agent-path-topology-litmus) | Fixtures for symlinks, submodules, worktrees, and path-scoped configuration. |
 
-## What I Build Well
+Other public utilities: [repo-brief](https://github.com/itscloud0/repo-brief), [ci-fix-brief](https://github.com/itscloud0/ci-fix-brief), [readme-command-check](https://github.com/itscloud0/readme-command-check), and [repo-launch-check](https://github.com/itscloud0/repo-launch-check).
 
-- **AI product systems**: agent workflows, tool calling, MCP, memory layers, RAG prototypes, eval-driven loops, and approval-gated actions.
-- **Vertical SaaS**: marketplace automation, finance/ops dashboards, Telegram-first workflows, compliance-aware product surfaces, and founder-led product launches.
-- **Developer infrastructure**: CLIs, GitHub Actions hygiene, repo analysis, CI triage, README validation, shell-runner contracts, and maintainer-friendly automation.
+## Contributions to established projects
 
-## Stack
+I also contribute fixes to Python developer tooling. Merged examples: [coverage.py](https://github.com/coveragepy/coveragepy/pull/2211), [pipx](https://github.com/pypa/pipx/pull/1855), [setuptools](https://github.com/pypa/setuptools/pull/5246), [wheel](https://github.com/pypa/wheel/pull/690), and [pyproject-hooks](https://github.com/pypa/pyproject-hooks/pull/230).
 
-TypeScript, React, Next.js, Python, FastAPI, pytest, PostgreSQL, Prisma, Docker, GitHub Actions, MCP, n8n, OpenRouter/OpenAI-compatible tool calling, and practical LLM workflow design.
+## Working with me
 
-## Current Direction
+My stack includes Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, Docker, GitHub Actions, and MCP. I care about reproducible bugs, useful tests, clear installation paths, and honest limitations.
 
-- Turn AI products into reliable execution systems, not chat demos.
-- Build private product work into public proof where it makes sense.
-- Keep OSS focused on real developer/operator pain, with tests and clean docs.
+[LinkedIn](https://linkedin.com/in/iliasorokin) · [ManualMode](https://manualmode.dev) · [Kognivu](https://kognivu.com)
 
-## Contact
+<details>
+<summary>Other product work</summary>
 
-[LinkedIn](https://linkedin.com/in/iliasorokin) · [Kognivu](https://kognivu.com) · [WBDelegateBot](https://t.me/WBDelegateBot)
+I also built [WBDelegateBot](https://t.me/WBDelegateBot), a Telegram assistant for Wildberries sellers.
+
+</details>
